@@ -58,8 +58,8 @@ def takecommand():                  #takes command through microphone
     #server=smtplib.SMTP('smtp.gmail.com',587)
     #server.ehlo()
     #server.starttls()
-    #server.login('khondharsha26@gmail.com','')
-    #server.sendmail('khondharsha26@gmail.com',to,content)
+    #server.login('user email','')
+    #server.sendmail('user email',to,content)
     #server.close()
     
 def ask_google(string):                            #it gives us list of website which are most recently serached related to your query
